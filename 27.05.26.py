@@ -50,7 +50,7 @@
 # program1 = timeit(code1, number = 100, globals = globals())
 # program2 = timeit(code2, number = 100, globals = globals())
 # program3 = timeit(code3, number = 100, globals = globals())
-# print(program1, program2, program3)                                      #task 3
+# print(program1, program2, program3)                                     #task 3
 
 
 
